@@ -19,7 +19,7 @@ const translations = {
     
     // Tagline & Banner
     'tagline': 'विश्वास और शुद्धता का प्रतीक – भरत ज्वेलर्स, चाकिसैण।',
-    'banner.trusted': 'Trusted Jewellers of Chakisain since 1979',
+    'banner.trusted': '1979 से चाकीसैंण के विश्वसनीय ज्वैलर्स',
     
     // Home Page
     'home.hero.title': 'भरत ज्वेलर्स में आपका स्वागत है',
@@ -73,8 +73,8 @@ const translations = {
     'contact.address': 'पता',
     'contact.address.full': 'भरत ज्वेलर्स, चाकिसैण, पौड़ी गढ़वाल, उत्तराखंड – भारत',
     'contact.hours': 'खुलने का समय',
-    'contact.hours.time': 'सुबह 10 बजे से शाम 7 बजे तक',
-    'contact.hours.closed': 'सोमवार को बंद रहते हैं',
+    'contact.hours.time': 'सुबह 8 बजे से शाम 7 बजे तक',
+    'contact.hours.closed': 'रविवार को बंद रहते हैं',
     'contact.call': 'अभी फोन करें',
     'contact.whatsapp': 'WhatsApp पर मैसेज करें',
     'contact.whatsapp.preMsg': 'नमस्ते! मैं आपकी वेबसाइट - भरत ज्वैलर्स से आया हूँ।',
@@ -110,7 +110,7 @@ const translations = {
     
     // Tagline & Banner
     'tagline': 'Symbol of Trust and Purity – Bharat Jewellers, Chakisain',
-    'banner.trusted': 'Trusted Jewellers of Chakisain since 2023',
+    'banner.trusted': 'Trusted Jewellers of Chakisain since 1979',
     
     // Home Page
     'home.hero.title': 'Welcome to Bharat Jewellers',
@@ -164,7 +164,7 @@ const translations = {
     'contact.address': 'Address',
     'contact.address.full': 'Bharat Jewellers, Chakisain, Pauri Garhwal, Uttarakhand - India',
     'contact.hours': 'Opening Hours',
-    'contact.hours.time': '9 AM - 7 PM',
+    'contact.hours.time': '8 AM - 7 PM',
     'contact.hours.closed': 'Closed on Sundays',
     'contact.call': 'Call Now',
     'contact.whatsapp': 'Message on WhatsApp',
