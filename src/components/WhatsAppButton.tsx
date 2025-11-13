@@ -4,7 +4,7 @@ import {useLanguage} from "@/contexts/LanguageContext.tsx";
 
 const WhatsAppButton = () => {
   const { t } = useLanguage();
-  const message = encodeURIComponent(t('contact.whatsapp.preMsg'));
+  const message = encodeURIComponent('');
   const handleWhatsAppClick = () => {
     window.open(`https://wa.me/917895305503?text=${message}`, "_blank");
   };

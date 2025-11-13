@@ -54,7 +54,7 @@ const Footer = () => {
               <div className="flex items-center gap-2">
                 <Clock className="h-5 w-5 text-gold-light" />
                 <span className="text-sm">
-                  {t('contact.hours.time')}<br />
+                  {t('contact.hours')}:&nbsp;&nbsp;{t('contact.hours.time')}<br />
                   {t('contact.hours.closed')}
                 </span>
               </div>
